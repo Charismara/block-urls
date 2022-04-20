@@ -6,3 +6,4 @@
 ||ftte.xyz^
 ||wemakesafe.com^
 system-product-error.s3.eu-central-1.amazonaws.com
+||gamesathletes.com^
