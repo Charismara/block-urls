@@ -9,5 +9,6 @@ system-product-error.s3.eu-central-1.amazonaws.com
 ||gamesathletes.com^
 ||flatex.de^
 ||hugelyimmovable.com^
-||/screechadulthood.com^
+||screechadulthood.com^
 ||hentaiheroes.com^
+||comixharem.com^
