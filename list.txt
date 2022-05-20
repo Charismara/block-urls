@@ -13,3 +13,4 @@ system-product-error.s3.eu-central-1.amazonaws.com
 ||hentaiheroes.com^
 ||comixharem.com^
 ||insanitynominate.com^
+||artisticbuoyemphasize.com^
